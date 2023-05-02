@@ -1,0 +1,40 @@
+html body{
+    /* background-color: #003b4d; */
+    background-color: black;
+    color: white;
+    margin: 0%;
+    padding: 0%;
+    /* background-image: url("home10.jpg");
+    background-repeat: no-repeat; */
+
+}
+p:hover{
+    color: aqua;
+}
+
+.multi-collapse {
+    margin-top: -16px;
+    width: 1321px;
+    margin-left: -13px;
+}
+
+.girl-img {
+    background: black;
+}
+
+.insta-img {
+    width: 90px;
+}
+
+.footer_rowbox {
+    margin: -28px 0px 0px 150px;
+}
+
+
+.social_right {
+    margin: -25px 0px 0px 117px;
+}
+
+.footer-content {
+    display: flex;
+}
